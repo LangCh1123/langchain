@@ -25,6 +25,7 @@ EXTERNAL_PACKAGES = {
     "redis",
     "weaviate",
     "upstage",
+    "ibm",
 }
 
 JS_PACKAGES = {
@@ -56,6 +57,7 @@ JS_PACKAGES = {
     "nomic",
     "google-common",
     "ollama",
+    "ibm",
 }
 
 
@@ -69,6 +71,7 @@ CUSTOM_NAME = {
     "google-genai": "Google Generative AI",
     "aws": "AWS",
     "airbyte": "Airbyte",
+    "ibm": "IBM",
 }
 CUSTOM_PROVIDER_PAGES = {
     "azure-dynamic-sessions": "/docs/integrations/providers/microsoft/",
